@@ -1,0 +1,16 @@
+.btn.btn-outline-primary {
+  color: #f9aa3a;
+  border-color: #f9aa3a;
+}
+
+.btn-outline-primary:hover {
+  color: #f9aa3a;
+  background-color: initial;
+}
+
+.btn-outline-primary:not(:disabled):not(.disabled).active, .btn-outline-primary:not(:disabled):not(.disabled):active, .show > .btn-outline-primary.dropdown-toggle {
+  color: #f9aa3a;
+  background-color: initial;
+  border-color: #f9aa3a;
+}
+

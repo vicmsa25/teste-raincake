@@ -1,0 +1,112 @@
+.page-header {
+  min-height: 760px;
+  background-image: url('../img/bg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top center;
+  padding: 37px 0 147px;
+}
+
+.page-header .banner {
+  padding: 130px 0;
+}
+
+.page-header .banner p {
+  color: #0054a6;
+  font-weight: 300;
+  font-size: 49.74px;
+}
+
+.floating-container {
+  position: relative;
+  top: -110px;
+  font-weight: 300;
+}
+
+.floating-container .image-box {
+  background-color: #bd8216;
+  color: #fff;
+  padding: 29px;
+  width: 359px;
+  border-radius: 4px;
+  height: 248px;
+  background-image: url('../img/sol.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top center;
+}
+
+.floating-container .image-box .heading {
+  font-size: 30px;
+  font-weight: inherit;
+  margin-bottom: 12px;
+}
+
+.floating-container .white-box {
+  background-color: #fff;
+  color: #666;
+  padding: 29px;
+  width: 556px;
+  border-radius: 4px;
+  height: 248px;
+}
+
+.floating-container .white-box .heading {
+  color: #f9aa3a;
+  font-size: 24px;
+  font-weight: inherit;
+}
+
+.main-container {
+  background-image: url('../img/homem.png');
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  color: #666;
+  font-weight: 300;
+  font-size: 21.27px;
+  background-size: contain;
+  padding: 82px 0 162px;
+}
+
+.main-container .heading {
+  color: #0d5caa;
+  font-size: 36.46px;
+  font-weight: inherit;
+  margin-bottom: 48px;
+}
+
+.carousel-area {
+  color: #fff;
+  background-image: url('../img/bg-chamada-3.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 95px 0;
+  font-weight: 300;
+  background-position: top center;
+  margin-top: -32px;
+}
+
+.carousel-area .heading {
+  font-size: 36.46px;
+  font-weight: inherit;
+  margin-bottom: 24px;
+}
+
+.page-footer {
+  background-color: #f9a836;
+  min-height: 136px;
+  color: #f5fafc;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: normal;
+}
+
+.page-footer p:not(:last-child) {
+  margin-bottom: 8px;
+}
+
+.page-footer .big {
+  font-size: 24px;
+  font-weight: 600;
+}
+
